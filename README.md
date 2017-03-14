@@ -2,4 +2,4 @@
 
 ![Prescribe Logo](img/logo.PNG)
 
-Gumball based pill dispenser. Refer to our devpost [here](https://devpost.com/software/prescribel).
+Gumball based pill dispenser. Refer to our devpost [here](https://devpost.com/software/prescribe).
